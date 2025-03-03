@@ -1,15 +1,7 @@
-<!-- ## Hello World! I am {Davi Hasson Castro}! 👋 -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=6FA4FC&width=350&height=50&lines=Hello+World!,+I+am+Davi+👋+...;%f0%9f%92%bb)](https://git.io/typing-svg)
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Davi's Computer">
-
 - 📚 Studying
 - 👨🏼‍💻 Software Engineer
 - 🧑 I am 23 years old ...
 - 🌎 Rio de Janeiro - RJ, Brazil ...
-
-----
 
 ## 🚀 My Skills
 
@@ -18,8 +10,8 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
-----
 
 ## ⭐ My GitHub account information
 
@@ -28,8 +20,6 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=devhasson&show_icons=true&theme=dracula"/>
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhasson&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-##
   
 <div align="center"> 
   <a href="https://instagram.com/davvi.castro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
