@@ -14,7 +14,7 @@
 ## ⭐ My GitHub account information
 
 <div align="center">
-  <a href="https://github.com/dv-script">
+  <a href="https://github.com/devhasson">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=devhasson&show_icons=true&theme=dracula"/>
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhasson&layout=compact&langs_count=7&theme=dracula"/>
 </div>
